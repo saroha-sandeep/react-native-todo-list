@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a01e815a-40fe-4fad-9895-c1824741b049"
+      }
+    },
+    "owner": "sandeepsaroha"
   }
 }
